@@ -1,0 +1,364 @@
+chip-Fnr_	O
+Fnr8myc	B-Gtype
+_	O
+glucose	B-Supp
+_	O
+NH4CL	B-Supp
+_	O
+anaerobic	B-Air
+_1	O
+
+E.	O
+coli	O
+K-12	O
+MG1655	O
+WT	O
+,	O
+and	O
+Δcra	O
+were	O
+grown	O
+to	O
+mid-log	B-Phase
+phase	I-Phase
+aerobically	B-Air
+at	O
+37°C	B-Temp
+in	O
+M9	B-Med
+minimal	I-Med
+media	I-Med
+supplemented	O
+with	O
+0.2	B-Supp
+%	I-Supp
+glucose	O
+,	O
+fructose	O
+and	O
+acetate	O
+.	O
+
+Aerobic	B-Air
+cultures	O
+
+medium	O
+:	O
+LB	B-Med
+
+Cells	O
+were	O
+grown	O
+aerobically	O
+(	O
+70	O
+%	O
+N2	O
+,	O
+25	O
+%	O
+O2	O
+,	O
+and	O
+5	O
+%	O
+CO2	O
+)	O
+or	O
+anaerobically	B-Air
+(	I-Air
+95	I-Air
+%	I-Air
+N2	I-Air
+and	I-Air
+5	I-Air
+%	I-Air
+CO2	I-Air
+)	I-Air
+until	O
+mid-log	B-Phase
+phase	I-Phase
+OD600	B-OD
+of	I-OD
+~0.3-0.35	I-OD
+)	O
+.	O
+
+strain	O
+:	O
+K-12	B-Strain
+
+32	O
+43°C	B-Temp
+rep2	O
+
+genotype	O
+/	O
+variation	O
+:	O
+Combined	B-Gtype
+input	I-Gtype
+
+ΔoxyR	B-Gtype
+PQ	B-Supp
+2	O
+
+∆ryhB	B-Gtype
+Anaerobic	B-Air
+
+ip	O
+antibody	O
+:	O
+affinity	B-Anti
+purified	I-Anti
+anti-Fur	I-Anti
+antibody	I-Anti
+
+Fur	O
+IP	O
+ChIP-Seq	B-Technique
+Anaerobic	B-Air
+Iron	B-Supp
+Deficient	O
+B	O
+
+WT	B-Gtype
+acetate	B-Supp
+1	O
+
+Δfur	B-Gtype
+with	O
+Fe	B-Supp
+2	O
+(	B-Technique
+RNA	I-Technique
+-seq	I-Technique
+)	I-Technique
+
+ΔgadX	B-Gtype
+pH5.5	B-pH
+1	O
+
+Escherichia	O
+coli	O
+MG1655	O
+K-12	O
+WT	O
+and	O
+∆fnr	O
+were	O
+grown	O
+to	O
+mid-log	B-Phase
+phase	I-Phase
+O.D.600nm	B-OD
+0.3	I-OD
+anerobically	B-Air
+(	I-Air
+95	I-Air
+%	I-Air
+N2	I-Air
+,	I-Air
+5	I-Air
+%	I-Air
+CO2	I-Air
+)	I-Air
+at	O
+37°C	B-Temp
+in	O
+MOPS	B-Med
+0.2	B-Supp
+%	I-Supp
+glucose	I-Supp
+media	O
+(	O
+Ref	O
+)	O
+.	O
+
+genotype	O
+:	O
+ΔseqA	B-Gtype
+
+At	O
+OD450	B-OD
+=	I-OD
+0.3	I-OD
+,	O
+cultures	O
+induced	O
+with	O
+1	B-Supp
+mM	I-Supp
+IPTG	I-Supp
+
+genotype	O
+/	O
+variation	O
+:	O
+harboring	O
+Fnr-8myc	B-Gtype
+
+σ32	O
+30°C	B-Temp
+rep1	O
+
+genoype	O
+:	O
+dFNR	B-Gtype
+
+Fur	O
+IP	O
+ChIP-Seq	B-Technique
+Aerobic	B-Air
+C	O
+
+culture	O
+condition	O
+:	O
+Anaerobic	B-Air
+cultures	O
+
+chip	O
+antibody	O
+:	O
+32	B-Anti
+
+chip-Fnr_	O
+Fnr8myc	B-Gtype
+_	O
+glucose	B-Supp
+_	O
+NH4CL	B-Supp
+_	O
+NO3	B-Supp
+_2	O
+
+genotype	O
+:	O
+WT	B-Gtype
+
+WT	B-Gtype
+glucose	B-Supp
+1	O
+
+genoype	O
+:	O
+Wild-Type	B-Gtype
+
+MG1655	B-Substrain
+
+affyexp_	O
+delta-arcA	B-Gtype
+_	O
+glucose	B-Supp
+_	O
+NH4CL	B-Supp
+_	O
+anaerobic	B-Air
+_3.CEL	O
+
+CsiR_	O
+ChIPSeq	B-Technique
+
+WT	B-Gtype
+NaCl	B-Supp
+1	O
+
+pT7	O
+_	O
+ChIPSeq	B-Technique
+_1	O
+
+32	O
+30°C	B-Temp
+rep2	O
+
+Δcra	B-Gtype
+fructose	B-Supp
+2	O
+
+ArgR_	O
+Arginine	B-Supp
+_1	O
+
+strain	O
+:	O
+MG1655	B-Orgn
+
+chip-ArcA_	O
+ArcA8myc	B-Gtype
+_	O
+glucose	B-Supp
+_	O
+NH4CL	B-Supp
+_	O
+NO3	B-Supp
+_2	O
+
+SoxS	O
+PQ	B-Supp
+2	O
+
+To	O
+harvest	O
+total	O
+RNA	O
+samples	O
+,	O
+overnight	O
+cultures	O
+of	O
+wild	B-Gtype
+type	I-Gtype
+MG1655	O
+grown	O
+in	O
+LB	O
+at	O
+37	O
+˚C	O
+were	O
+diluted	O
+back	O
+1:500	O
+in	O
+either	O
+fresh	O
+LB	O
+or	O
+M63	B-Med
+minimal	I-Med
+glucose	I-Med
+medium	O
+and	O
+allowed	O
+to	O
+grow	O
+until	O
+the	O
+cultures	O
+reached	O
+an	O
+OD600	O
+of	O
+~	O
+0.4	O
+and	O
+2.0	O
+for	O
+cultures	O
+grown	O
+in	O
+LB	O
+and	O
+an	O
+OD600	B-OD
+of	I-OD
+~0.4	I-OD
+for	O
+cultures	O
+grown	O
+in	O
+M63	O
+.	O
